@@ -32,7 +32,6 @@ window.onload = function() {
     '<p class="text-body">&#9827;</p>',
     '<p class="text-body">&#9824;</p>'
   ];
-
   var rand = length(number);
   var rand2 = length(sig);
   document.querySelector("#quote2").innerHTML = number[rand];
